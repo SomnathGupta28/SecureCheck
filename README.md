@@ -91,8 +91,8 @@ https://secure-check-somnath.netlify.app/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/url-security-checker.git
-cd url-security-checker
+git clone https://github.com/SomnathGupta28/SecureCheck
+cd SecureCheck
 npm install
 ````
 
@@ -141,12 +141,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 💡 Inspiration
 
 Inspired by the need for a quick, browser-based URL threat checker with clean UI and real-time feedback for users.
@@ -155,12 +149,5 @@ Inspired by the need for a quick, browser-based URL threat checker with clean UI
 
 ## ✨ Author
 
-**Your Name**
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-link)
-
-```
-
----
-
-Let me know if you want a dark theme preview image, GitHub badges, or instructions for deployment (e.g., Vercel/Netlify).
-```
+**Somnath**
+ [LinkedIn](https://linkedin.com/in/somnath-84413824b)
